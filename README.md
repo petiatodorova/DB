@@ -1,2 +1,2 @@
 # DB
-Databases exercises
+Transact SQL Databases exercises
