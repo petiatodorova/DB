@@ -92,9 +92,6 @@ SELECT UserName, IpAddress FROM Users
 WHERE IpAddress LIKE '___.1%.%.___'
 ORDER BY Username ASC
 
---Problem 15. Show All Games with Duration and Part of the Day
-SELECT * FROM GameTypes
-GO
 
 --Problem 16. Orders Table
 USE Orders
